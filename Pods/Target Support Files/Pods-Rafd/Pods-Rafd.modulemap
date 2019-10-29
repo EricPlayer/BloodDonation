@@ -1,0 +1,6 @@
+framework module Pods_Rafd {
+  umbrella header "Pods-Rafd-umbrella.h"
+
+  export *
+  module * { export * }
+}
